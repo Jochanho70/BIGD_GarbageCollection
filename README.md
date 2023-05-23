@@ -33,4 +33,6 @@ https://mangkyu.tistory.com/118
 
 https://ko.javascript.info/garbage-collection
 
+https://velog.io/@woo00oo/GC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98Memory-Leak
+
 chatGPT
